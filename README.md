@@ -1,0 +1,2 @@
+# Case-Study-Corrosion-Analysis-and-NDT-Application-in-Marine-Structures
+It provides insight into the study of marine corrosion factors related to salinity, oxygen, and temperature. Various types of corrosion, such as pitting and galvanic, are presented with respect to risk evaluation. Emphasis is on NDT techniques like ultrasonic and radiography, with case studies supporting cathodic protection for lifespan extension.
